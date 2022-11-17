@@ -1,6 +1,6 @@
-#TicTacToe con clases
+# TicTacToe con clases
 
-####Development of the popular game, composed of a 3x3 board and 3 tokens per player. [WIKI](https://en.wikipedia.org/wiki/Tic-tac-toe)
+#### Development of the popular game, composed of a 3x3 board and 3 tokens per player. [WIKI](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
 ![TicTacToe Board](./doc/img/board.png)
 
